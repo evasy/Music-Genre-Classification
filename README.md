@@ -1,6 +1,8 @@
 # Music-Genre-Classification
-## Slides: https://spa-drp.github.io/writeups/aut2021/slides/yitong.pdf
-## Report (Write-up): https://spa-drp.github.io/writeups/aut2021/writeups/yitong.pdf 
+## Slides: 
+https://spa-drp.github.io/writeups/aut2021/slides/yitong.pdf
+## Report (Write-up): 
+https://spa-drp.github.io/writeups/aut2021/writeups/yitong.pdf 
 
 Conclusion:
 - Using k-fold methods, we generated the result that k=5 gives us the highest prediction accuracy under the KNN model.
