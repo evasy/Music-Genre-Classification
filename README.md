@@ -10,7 +10,7 @@ Conclusion:
 - Among the 10 genres, classical genre has the highest accuracy, and rock genre has the lowest.
 
 References:
-https://www.cs.cmu.edu/~schneide/tut5/node42.html
-https://scikit-learn.org/stable/modules/cross_validation.html
-https://data-flair.training/blogs/python-project-music-genre-classification/
-James, Gareth, et al. An Introduction to Statistical Learning: With Applications in R. 
+- https://www.cs.cmu.edu/~schneide/tut5/node42.html
+- https://scikit-learn.org/stable/modules/cross_validation.html
+- https://data-flair.training/blogs/python-project-music-genre-classification/
+- James, Gareth, et al. An Introduction to Statistical Learning: With Applications in R. 
